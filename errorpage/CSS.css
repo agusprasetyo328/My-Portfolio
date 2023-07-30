@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #000;
+    color: #fff;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center; /* Menyelaraskan teks ke tengah halaman */
+}
+
+.txtblue {
+    font-size: 16px;
+    font-weight: 400;
+    color: #0094ff;
+}
+
+.txtyellow {
+    color: #ffd400;
+    text-decoration: underline;
+}
+
+.txtwhite {
+    font-size: 16px;
+}
+
+.imgcenter {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.btn-back {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0094ff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
